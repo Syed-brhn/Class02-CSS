@@ -1,0 +1,14 @@
+body{
+    /* background-color: black; */
+    /* rgb values start from 0 and end at 255 No. */
+background-color: rgb(255, 255, 80);
+}
+
+.primary{
+    color: blue;
+}
+
+.secondary{
+    background-color: rgba(255, 0, 255, 0.491);
+    color: black;
+}
