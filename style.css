@@ -20,9 +20,16 @@ body{
     /* for changing font style */
     font-style: oblique;
     /* for font sizing */
-    font-stretch: condensed;
+    font-stretch:narrower;
 }
 
 /* h1{
     font-weight: 1000;
 } */
+
+.text-style{
+    font-style: oblique;
+    font-stretch: condensed;
+    font-weight: lighter;
+    font-weight: 14px;
+}
