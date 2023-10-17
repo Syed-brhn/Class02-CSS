@@ -17,8 +17,12 @@ body{
     font-family: sans-serif;
     line-height: 50px;
     font-weight: lighter;
+    /* for changing font style */
+    font-style: oblique;
+    /* for font sizing */
+    font-stretch: condensed;
 }
 
-h1{
+/* h1{
     font-weight: 1000;
-}
+} */
